@@ -8,3 +8,6 @@ pip install requests
 pip install moviepy   
 pip install pygame   
 pip install openai   
+
+## Remember!
+Remember to change in code your api key. Has to have gpt4-vision-preview.
